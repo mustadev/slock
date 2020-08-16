@@ -7,6 +7,9 @@ Requirements
 ------------
 In order to build slock you need the Xlib header files.
 
+```bash 
+sudo apt install libxrandr-dev -y
+```
 
 Installation
 ------------
